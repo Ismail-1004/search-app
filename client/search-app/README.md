@@ -21,7 +21,7 @@ Search App
 1. Клонируйте репозиторий:
 
    ```sh
-   git clone https://github.com/Ismail-1004/test-task
+   git clone https://github.com/Ismail-1004/search-app
    cd client/search-app
 
    ```
@@ -111,8 +111,4 @@ Toastify для уведомлений
 {
   "message": "Пользователь не найден"
 }
-```
-
-```
-
 ```

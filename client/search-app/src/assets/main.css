@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+
+  font-family: sans-serif;
+}
+
+body {
+  background: #282828;
+  height: 100vh;
+}
+
+#app {
+  height: 100%;
+}
+
+.main {
+  height: 100%;
+}
